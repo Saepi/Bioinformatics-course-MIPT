@@ -1,4 +1,4 @@
 # Bioinformatics-course-MIPT
-Final project of the bioinformatics course in MIPT (3rd year of Bachelor programm), done by Stepan Epifantsev, B06-108.
+Алгоритмический проект по биоинформатике на третьем курсе ФБМФ МФТИ, выполненный Степаном Епифанцевым, Валерией Якуповой, Антоном Селивановым, студентами группы Б06-108.
 
-Here you can find the code of the alignment made by the suffix array algorithm 
+В коде реализован алгоритм поиска подстроки в строке на основе суффиксного массива. 
