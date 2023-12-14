@@ -1,0 +1,1 @@
+Alignment loci: [4, 5]
